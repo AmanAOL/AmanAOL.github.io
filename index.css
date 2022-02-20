@@ -1,0 +1,124 @@
+P {
+  font-size: 11pt;
+  font-family: arial, sans-serif;
+  color: "#00007F";
+}
+
+span.bold {
+  font-size: 11pt;
+  font-family: arial, sans-serif;
+  color: "#00007F";
+  font-weight: bold;
+}
+
+span.italic {
+  font-size: 11pt;
+  font-family: arial, sans-serif;
+  color: "#00007F";
+  font-style: italic;
+}
+
+TD {
+  font-size: 11pt;
+  font-family: arial, sans-serif;
+  color: "#00007F";
+}
+
+p.quote {
+  font-size: 11pt;
+  font-family: arial, sans-serif;
+  color: "#00007f";
+}
+
+p.h1 {
+  font-size: 12pt;
+  font-family: arial, sans-serif;
+  font-weight: bold;
+  color: "#00007f";
+}
+
+p.h2 {
+  font-size: 11pt;
+  font-family: arial, sans-serif;
+  font-weight: bold;
+  color: "#00007f";
+}
+
+.sheetOuterDiv {
+  border-style: double;
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.6),
+      rgba(255, 255, 255, 0.6)
+    ),
+    url("aol.jpg");
+  width: 90%;
+  padding: 5px;
+}
+
+.shift-left {
+  float: left;
+  font-size: 11pt;
+}
+
+.shift-right {
+  float: right;
+  font-size: 11pt;
+}
+
+select {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -webkit-padding-end: 20px;
+  -moz-padding-end: 20px;
+  -webkit-padding-start: 2px;
+  -moz-padding-start: 2px;
+  background-color: #ffffff; /* Fallback color if gradients are not supported */
+  background-position: center right;
+  background-repeat: no-repeat;
+  border: 1px solid #aaa;
+  border-radius: 8px;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+  color: #555;
+  font-size: inherit;
+  margin: 0;
+  overflow: hidden;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  outline: none;
+}
+
+.goButton {
+  border: 1px solid #aaa;
+  border-radius: 8px;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+  color: #555;
+  font-size: inherit;
+  margin: 0;
+  overflow: hidden;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  outline: none;
+}
+
+body {
+  background-color: #f7edd6;
+}
+
+td {
+  text-align: center;
+  padding: 0.4rem;
+}
+
+table {
+  margin-top: 0.4rem;
+}
+
+.select-leaf-para {
+  margin-left: 1rem;
+}
