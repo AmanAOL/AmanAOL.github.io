@@ -46,12 +46,14 @@ p.h2 {
 
 .sheetOuterDiv {
   border-style: double;
-  background-image: linear-gradient(
-      rgba(255, 255, 255, 0.6),
-      rgba(255, 255, 255, 0.6)
+  /*background-image: linear-gradient(
+      rgba(255, 255, 255, 0.8),
+      rgba(255, 255, 255, 0.8)
     ),
-    url("aol.jpg");
+    url("aol-2.jpg");
+  */
   width: 90%;
+  background-color: #f7f3ef;
   padding: 5px;
 }
 
@@ -63,6 +65,13 @@ p.h2 {
 .shift-right {
   float: right;
   font-size: 11pt;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 150px;
+  height: 100px;
+  border-radius: 50%;
 }
 
 select {
@@ -107,7 +116,7 @@ select {
 }
 
 body {
-  background-color: #f7edd6;
+  background-color: #e6e0d5;
 }
 
 td {
@@ -117,6 +126,7 @@ td {
 
 table {
   margin-top: 0.4rem;
+  background-color: #f7f3ef;
 }
 
 .select-leaf-para {
