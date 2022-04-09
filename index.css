@@ -30,6 +30,12 @@ p.quote {
   color: "#00007f";
 }
 
+li {
+  font-size: 14pt;
+  font-family: arial, sans-serif;
+  color: "#00007f";
+}
+
 p.h1 {
   font-size: 15pt;
   font-family: arial, sans-serif;
