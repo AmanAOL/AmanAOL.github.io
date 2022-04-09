@@ -1,5 +1,5 @@
 P {
-  font-size: 11pt;
+  font-size: 14pt;
   font-family: arial, sans-serif;
   color: "#00007F";
 }
@@ -19,26 +19,26 @@ span.italic {
 }
 
 TD {
-  font-size: 11pt;
+  font-size: 14pt;
   font-family: arial, sans-serif;
   color: "#00007F";
 }
 
 p.quote {
-  font-size: 11pt;
+  font-size: 14pt;
   font-family: arial, sans-serif;
   color: "#00007f";
 }
 
 p.h1 {
-  font-size: 12pt;
+  font-size: 15pt;
   font-family: arial, sans-serif;
   font-weight: bold;
   color: "#00007f";
 }
 
 p.h2 {
-  font-size: 11pt;
+  font-size: 14pt;
   font-family: arial, sans-serif;
   font-weight: bold;
   color: "#00007f";
@@ -52,7 +52,7 @@ p.h2 {
     ),
     url("aol-2.jpg");
   */
-  width: 90%;
+  width: 98%;
   /*background-color: #f7f3ef;*/
   background-color: #ffffff;
   padding: 5px;
@@ -131,5 +131,6 @@ table {
 }
 
 .select-leaf-para {
-  margin-left: 1rem;
+  /*margin-left: 1rem;*/
+  width:98%;
 }
