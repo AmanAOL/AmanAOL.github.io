@@ -19,3 +19,4 @@
       <P ALIGN="CENTER"><FONT SIZE="+2"><font face ="Arial" size="2"> <b> Jai Gurudev </b> </font></P></FONT></font>
       </div>
   <P></P><P><a href="#top"> Back To Start </a> <P>
+  </Center>
