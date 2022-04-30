@@ -1,8 +1,8 @@
-<a name="leaf226"></a>
+<a name="leaf236"></a>
   <body bcolor="#FFFFFF">
   <Center>
     <div class="sheetOuterDiv">
-      <span class="shift-left">Weekly Knowledge #226<br />12 Jan 1996</span>
+      <span class="shift-left">Weekly Knowledge #236<br />12 Jan 1996</span>
     <font face ="Arial">
       <span class="shift-right">Bangalore Ashram<br />India</span>
       <font face=arial,helvetica size=2 >
