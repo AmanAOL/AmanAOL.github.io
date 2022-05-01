@@ -1,10 +1,10 @@
-<a name="leaf241"></a>
+<a name="leaf251"></a>
   <body bcolor="#FFFFFF">
   <Center>
     <div class="sheetOuterDiv">
-      <span class="shift-left">Weekly Knowledge #241<br />12 Jan 1996</span>
+      <span class="shift-left">Weekly Knowledge #251<br />12 Jan 1996</span>
     <font face ="Arial">
-      <span class="shift-right">Bangalore Ashram<br />India</span>
+      <span class="shift-right">BangaloreAshram<br />India</span>
       <font face=arial,helvetica size=2 >
       
       <P ALIGN="CENTER"><B>WRAPPINGPAPER</B></P>
