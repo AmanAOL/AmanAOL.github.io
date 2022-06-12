@@ -58,7 +58,7 @@ p.h2 {
     ),
     url("aol-2.jpg");
   */
-  width: 98%;
+  width: 98vw !important;
   /*background-color: #f7f3ef;*/
   background-color: #ffffff;
   padding: 5px;
@@ -138,5 +138,5 @@ table {
 
 .select-leaf-para {
   /*margin-left: 1rem;*/
-  width:98%;
+  width: 98%;
 }
